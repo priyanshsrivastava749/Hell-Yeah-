@@ -60,7 +60,7 @@ const App: React.FC = () => {
               Dopamine<span className="text-white">_</span>Detox
             </h1>
             <p className="text-[#00aa2c] font-pixel text-sm md:text-lg mt-1">
-              > User: OPERATOR // Status: ONLINE
+              {'>'} User: OPERATOR // Status: ONLINE
             </p>
           </div>
           <Cpu className="text-[#00ff41] animate-pulse hidden md:block" size={48} />
